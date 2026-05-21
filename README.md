@@ -2,7 +2,7 @@
 
 alpgrad ("alp" meaning "little" in Hindi/Sanskrit) is a port of Andrej Karpathy's [micrograd](https://github.com/karpathy/micrograd) in pure C.
 - Dependency free. Just standard C.
-- Lightweight and fast
+- Lightweight and fast.
 
 ## Project Structure
 
