@@ -30,3 +30,7 @@ You can then run the tests and examples from the root directory like so (example
 ./builds/example_1
 ./builds/example_2
 ```
+
+## Usage
+
+Refer to the examples to see how to import and use `alpgrad/engine.h` and `alpgrad/nn.h`. The usage is similar to micrograd, so it should be familiar if you've used that library before.
